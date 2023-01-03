@@ -1,0 +1,14 @@
+Rock --> Scissors
+Rock --> Lizard
+
+Paper --> Rock
+Paper --> Spock
+
+Scissors --> Paper
+Scissors --> Lizard
+
+Lizard --> Paper
+Lizard --> Spock
+
+Spock --> Rock
+Spock --> Scissors
